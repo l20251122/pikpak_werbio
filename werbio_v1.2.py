@@ -47,9 +47,9 @@ from datetime import datetime
 
 # -------------改这里-------------
 # r'替换为自己txt文件所在地址'
-file_path = r'C:\Users\admin\小米云盘\桌面\邮箱.txt'
+file_path = r'C:\Users\admin\小米云盘\桌面\邮箱.liuruiling64@gmail.comtxt'
 
-# 定义卡密和其使用次数
+# 定义卡密和其使用次数99999
 card_keys = {
     "0727-0827-3382SJ2SJ": 10000,
     "替换为自己想要的卡密": 10
